@@ -1,0 +1,6 @@
+{
+  "tv": "Amazon Fire TV Cube, 2nd gen 2019 (AFTR, raven), Germany",
+  "os": "Fire OS 7.7.1.3 / Android 9",
+  "brand": "Amazon Fire TV",
+  "notes": "4K Max list on the same build plus Alexa calling/Drop In, Matter, Silk, Luna (spiderpork) and the forced OTA updater; OTA itself is protected; voice search, Prime Video and casting kept; launcher runs over Amazon's home via HomeKeyService + stock_home_redirect"
+}
